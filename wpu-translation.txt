@@ -1,5 +1,7 @@
 TRANSLATION
 
 - tempo
+* sound
+* visual
 - movement
 - rhythm
