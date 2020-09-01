@@ -1,0 +1,4 @@
+WPU CONCEPT
+- Data to collect 
+- Device and method
+- Translation
