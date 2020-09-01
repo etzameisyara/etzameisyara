@@ -1,0 +1,5 @@
+TRANSLATION
+
+- tempo
+- movement
+- rhythm
